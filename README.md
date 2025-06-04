@@ -1,1 +1,1 @@
-Text generation from k-mers
+Text generation using k-mers
